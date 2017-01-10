@@ -3,7 +3,7 @@
     "remote": "github",
     "repository":  "klozz/device_motorola_msm8916-common",
     "target_path": "device/motorola/msm8916-common",
-    "branch": "xpe-11.1"
+    "branch": "nougat"
   }
 ]
 
